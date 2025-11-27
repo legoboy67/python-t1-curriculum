@@ -1,1 +1,1 @@
-from lesson5.classwork import random_item
+from lesson5.homework import problems
