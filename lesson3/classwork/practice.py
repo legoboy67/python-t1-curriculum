@@ -2,13 +2,27 @@
 # Ask the user to enter their height in centimeters.
 # Print "Tall" if the height is greater than 170, otherwise print "Short".
 
-
+height = int(input("How tall are you in Centimeters?"))
+if height > 170:
+    print("You are a very very tall person, almost as tall as Lebron James! 67!")
+elif height == 170:
+    print("You are average height. Sorry.")
+else:
+    print("You are very short. like a Hobbit.")
 
 # Problem 2
 # Ask the user for their age.
 # If they are 18 or older, print "Adult", else print "Minor".
 
-
+age = int(input("How old are you?"))
+if age == 67:
+    print("YAYAYAYAYAYAAYYAAYAYAYAYAAYAYAYYAYAYAYAYAYAYAYAYYA!!!!")
+elif age == 18:
+    print("Congratulations! You're officially an Adult!")
+elif age < 18:
+    print("You are a baby. Ain't that nice?")
+else:
+    print("You're old!")
 
 # Problem 3
 # Ask the user to enter a number.
@@ -16,6 +30,7 @@
 # print "FizzBuzz" if divisible by both 3 and 5,
 # otherwise print the number itself.
 
+number = int(input("Pick a number, any number!"))
 
 
 # Problem 4

@@ -1,10 +1,20 @@
 # Problem 1
 # Create a variable for your favorite number and print it.
+print("Welcome to the Testing Factory!")
+favnum = 67
+print("This is test 1.")
+print("This test requires 0 inputs.")
+print("The founder's favorite number is", favnum)
 
 
 
 # Problem 2
 # Create a variable for your height in meters and print it.
+height = 
+print("This is test 2.")
+print("This test requires 0 inputs.")
+print("The founder's height is", height)
+
 
 
 

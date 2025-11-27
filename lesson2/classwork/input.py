@@ -1,0 +1,1 @@
+#Inputs in python can be used by first entering if you want a number int(input('your text goes here')) or for words or numbers input('your words go here')

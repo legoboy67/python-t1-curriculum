@@ -2,7 +2,15 @@
 # Ask user for two test scores.
 # If BOTH scores are at least 50, print "You passed both!"
 # Otherwise, print "You failed at least one."
-
+test1score = int(input("What score did you get on one of your recent tests? Use only 0-100 scores."))
+test2score = int(input("What score did you get on another one of your recent tests? same principle applies."))
+if test1score > 50:
+    if test2score > 50:
+elif test1score == 50:
+    if test2score > 50:
+elif test1score == 50:
+    if test2score == 50:
+elif test1score > 5
 
 
 # Problem 2
